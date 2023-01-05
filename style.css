@@ -14,7 +14,8 @@ section {
 
 hr {
   border-width: 3px;
-  border-color: #D70006; 
+  border-color: #D70006;
+  max-width: 3rem;
   width: 100%;
 }
 
