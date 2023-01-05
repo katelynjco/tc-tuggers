@@ -15,8 +15,7 @@ section {
 hr {
   border-width: 3px;
   border-color: #D70006;
-  max-width: 3rem;
-  width: 100%;
+  max-width: 65px;
 }
 
 h1 {
